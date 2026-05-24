@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621518350750",
+    "project_id": "projek-fire-base",
+    "storage_bucket": "projek-fire-base.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621518350750:android:38d09ddcad0279cd978e8f",
+        "android_client_info": {
+          "package_name": "com.example.maps_dart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW82ALAXzi4x5cDYf0MnXff5235diVu-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
